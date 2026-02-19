@@ -53,43 +53,6 @@ No subscriptions. No tracking. No cloud lock-in.
 
 ---
 
-## 🏗️ Architecture
-
-```text
-Mnemo.Core           → contracts, models, interfaces (zero deps)
-Mnemo.Infrastructure → AI, storage, knowledge services
-Mnemo.UI             → Avalonia UI, modules, themes
-```
-
-Everything is:
-
-* interface-driven
-* auto-discovered modules
-* testable and replaceable
-
----
-
-## 🧠 What It Does
-
-Mnemo merges multiple learning paradigms into one system:
-
-* 📚 Notes (block-based, Markdown + LaTeX)
-* 🧭 Learning paths & units
-* 🧠 Local AI integration (full routing system)
-* 🗺️ Mindmaps
-* 🔎 Semantic search via embeddings
-* 🎨 Full theming & localization system
-
-Planned:
-
-* ⏱️ Spaced repetition flashcards
-* 🎮 MonoGame-powered games
-* 📊 Progress analytics
-* 🔌 Extension ecosystem
-* 🔊 Local audio & video generation
-
----
-
 ## 🌘 Development Principles
 
 * MVVM everywhere
