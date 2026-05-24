@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ████████╗ ██████╗ ██████╗ ███████╗████████╗███████╗██╗   ██╗ ██████╗ ██╗     
 ╚══██╔══╝██╔═══██╗██╔══██╗██╔════╝╚══██╔══╝██╔════╝██║   ██║██╔════╝ ██║     
@@ -7,72 +9,64 @@
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝      ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-> **Developer. Architect. Mnemo maintainer. Future medicine student.**
-> Building tools for people who expect a lot from themselves.
+*Developer. Architect. Future medicine student.*<br>
+*Building tools for people who expect a lot from themselves.*
+
+<br>
+
+![C#](https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0d0d0d?style=flat-square&logo=dotnet&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-0d0d0d?style=flat-square&logo=avalonia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=flat-square&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+<br>
 
 ---
 
-## 🧭 About
+I want to study medicine.
+In the meantime, I spend a lot of time thinking about how to learn things properly — and building software when the right tools don't exist.
 
-I'm a programmer working on **Mnemo** — an open-source study application built on the idea that learning tools should be powerful, free, and unified.
-
-I want to study medicine. I've spent too long switching between scattered tools trying to make my studying as effective as possible. At some point, building the right tool felt more honest than waiting for someone else to.
-
-I have perfectionist tendencies and standards that are sometimes impossible to meet. But giving up on your dreams isn't really an option.
-
-So I build.
+That's mostly what this account is.
 
 ---
 
-## 🧠 Mnemo
+<br>
 
-**Mnemo** is a free, open-source study platform for people who want real control over how they learn.
+## Mnemo
+
+**[mnemo.one](https://mnemo.one)** — Free, open-source study software.
+
+The premise is simple: learning tools should be powerful, unified, and free. Most aren't. You end up with five apps open, none of them talking to each other, progress scattered across services you don't fully trust.
+
+Mnemo is an attempt to fix that. A local-first study platform — flashcards, notes, revision scheduling, progress tracking — designed as one coherent thing instead of a feature list.
 
 ```
-Make studying less scattered.
-Make progress more visible.
-Make hard goals feel a little more reachable.
+The goal isn't to be impressive.
+The goal is to be useful.
 ```
 
-Mnemo is a thoughtful, local-first learning environment where structure matters as much as features.
+**Principles guiding the build:**
 
-**What I care about while building it:**
+```
+ local-first        your data stays yours
+ calm interface     nothing fights for attention  
+ clean architecture no shortcuts that cost you later
+ free forever       knowledge tools shouldn't have paywalls
+```
 
-- Clean architecture that doesn't collapse under its own weight
-- Study workflows that feel natural instead of forced
-- Local-first by default — your data, your device
-- Tools that help users remember and understand, not tools that maximise engagement
-- Interfaces that stay calm, focused, and practical
-- Something useful before something impressive
-
----
-
-## 🛠️ What I Work With
-
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white)
-![Avalonia](https://img.shields.io/badge/Avalonia-111111?style=for-the-badge&logo=avalonia&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white)
+<br>
 
 ---
 
-## 📊 Stats
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=torstfugl&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torstfugl&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa)
+<div align="center">
 
----
+*If the tool you need doesn't exist — build it.*
 
-## 🔗 Projects
-
-### [Mnemo](https://mnemo.one)
-> Open-source study software for people trying to learn seriously — without losing themselves in the process.
-
----
-
-## ⚡ Motto
-
-> **If you want a tool that doesn't exist, well — make it then.**
+</div>
