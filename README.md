@@ -9,11 +9,6 @@
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝      ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-*Developer. Architect. Future medicine student.*<br>
-*Building tools for people who expect a lot from themselves.*
-
-<br>
-
 ![C#](https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-0d0d0d?style=flat-square&logo=dotnet&logoColor=white)
 ![Avalonia](https://img.shields.io/badge/Avalonia-0d0d0d?style=flat-square&logo=avalonia&logoColor=white)
@@ -28,45 +23,22 @@
 
 ---
 
-I want to study medicine.
-In the meantime, I spend a lot of time thinking about how to learn things properly — and building software when the right tools don't exist.
+I want to study medicine. In the meantime I spend a lot of time thinking about how to learn well, and writing software when the tools I need don't exist.
 
 That's mostly what this account is.
 
 ---
 
-<br>
-
 ## Mnemo
 
-**[mnemo.one](https://mnemo.one)** — Free, open-source study software.
+[mnemo.one](https://mnemo.one) is a free, open-source study app I'm building because I got tired of juggling five different tools that don't talk to each other. Flashcards in one place, notes somewhere else, no real picture of whether any of it is working.
 
-The premise is simple: learning tools should be powerful, unified, and free. Most aren't. You end up with five apps open, none of them talking to each other, progress scattered across services you don't fully trust.
-
-Mnemo is an attempt to fix that. A local-first study platform — flashcards, notes, revision scheduling, progress tracking — designed as one coherent thing instead of a feature list.
-
-```
-The goal isn't to be impressive.
-The goal is to be useful.
-```
-
-**Principles guiding the build:**
-
-```
- local-first        your data stays yours
- calm interface     nothing fights for attention  
- clean architecture no shortcuts that cost you later
- free forever       knowledge tools shouldn't have paywalls
-```
-
-<br>
+The idea is to have it all in one place, local-first, without a subscription or a data policy to worry about. Not trying to make something flashy. Just something that actually helps.
 
 ---
 
-<br>
-
 <div align="center">
 
-*If the tool you need doesn't exist — build it.*
+*If the tool you need doesn't exist, make it.*
 
 </div>
