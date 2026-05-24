@@ -1,79 +1,78 @@
-# 🌑 Shadow
-
 ```text
-███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
-██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
-███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║
-╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
-███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝
+████████╗ ██████╗ ██████╗ ███████╗████████╗███████╗██╗   ██╗ ██████╗ ██╗     
+╚══██╔══╝██╔═══██╗██╔══██╗██╔════╝╚══██╔══╝██╔════╝██║   ██║██╔════╝ ██║     
+   ██║   ██║   ██║██████╔╝███████╗   ██║   █████╗  ██║   ██║██║  ███╗██║     
+   ██║   ██║   ██║██╔══██╗╚════██║   ██║   ██╔══╝  ██║   ██║██║   ██║██║     
+   ██║   ╚██████╔╝██║  ██║███████║   ██║   ██║     ╚██████╔╝╚██████╔╝███████╗
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝      ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-> **Developer. Architect. Mnemo maintainer.**
-> Designing systems that think.
+> **Developer. Architect. Mnemo maintainer. Future medicine student.**
+> Building tools for people who expect a lot from themselves.
 
 ---
 
-## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/4aed819e-1329-4257-9c6c-47bcb44658af" /> About Me
+## 🧭 About
 
-* 🛠️ C# / .NET developer
-* 🐍 Python for tooling & experimentation
-* 🎨 Figma → architecture → implementation
-* 🧩 Modular systems, clean layers, local-first thinking
+I am a programmer working on **Mnemo**, an open-source study application built around the idea that learning tools should be powerful, free and all the tools in one place.
+
+I want to study medicine, and I spend a lot of time switching between multiple tools to try and make my studying as effective as possible.
+
+I am a regular guy with perfectionist tendencies and standards that are sometimes impossible to meet. But giving up on your dreams is not really an option either.
+
+So I build.
+
+Right now, that means creating tools like **Mnemo** to make reaching those expectations a little more realistic.
 
 ---
 
-## 🧰 Stack
+## 🧠 Mnemo
+
+**Mnemo** is a free and open-source study application for people who want more control over their learning.
+
+The goal is simple:
+
+```text
+Make studying less scattered.
+Make progress more visible.
+Make hard goals feel a little more reachable.
+```
+
+Mnemo is being designed as a thoughtful, local-first learning platform where structure matters as much as features.
+
+### What I care about while building it
+
+* Clean architecture that does not collapse under its own weight
+* Study workflows that feel natural instead of forced
+* Local-first thinking where possible
+* Tools that help users remember, revise, and understand instead of maxing profits
+* Interfaces that stay calm, focused, and practical
+* Building something useful before building something impressive
+
+---
+
+## 🛠️ What I Work With
 
 ![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Avalonia](https://img.shields.io/badge/Avalonia-111111?style=for-the-badge\&logo=avalonia\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge\&logo=figma\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
-# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d2f8cd1b-6fdb-4fc4-8486-6a33477faeb9" /> Mnemo
+## 🔗 Projects
 
-🔗 [https://github.com/ShadowCCS/MnemoApp](https://github.com/ShadowCCS/MnemoApp)
+### Mnemo
 
-**Free. Open-source. Cross-platform. Local-first.**
+> Open-source study software for people trying to learn seriously without losing themselves in the process.
 
-Mnemo is a **fully modular learning platform** built with:
-
-* **.NET 9 + Avalonia 11**
-* **Clean 3-layer architecture**
-* **Local AI (LLamaSharp + ONNX)**
-* **Vector RAG knowledge system**
-* **SQLite local storage**
-* **MVVM + DI + async-first design**
-
-No subscriptions. No tracking. No cloud lock-in.
-
----
-
-## 🌘 Development Principles
-
-* MVVM everywhere
-* DI for all services
-* Async I/O only
-* Local-first AI for privacy
-* Clean boundaries between layers
-
----
-
-## 🧪 Philosophy
-
-```text
-Design systems, not features.
-Local-first is future-proof.
-Modularity is freedom.
-Ship → measure → refactor → repeat.
-```
+[Mnemo](https://mnemo.one)
 
 ---
 
 ## ⚡ Motto
 
-> *“If it can’t run offline, it isn’t finished.”*
+> **If you want a tool that doesnt exist, well make it then.**
