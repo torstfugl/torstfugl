@@ -25,7 +25,6 @@
 
 I want to study medicine. In the meantime I spend a lot of time thinking about how to learn well, and writing software when the tools I need don't exist.
 
-That's mostly what this account is.
 
 ---
 
