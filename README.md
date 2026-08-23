@@ -25,19 +25,3 @@
 
 I want to study medicine. In the meantime I spend a lot of time thinking about how to learn well, and writing software when the tools I need don't exist.
 
-
----
-
-## Mnemo
-
-[mnemo.one](https://mnemo.one) is a free, open-source study app I'm building because I got tired of juggling five different tools that don't talk to each other. Flashcards in one place, notes somewhere else, no real picture of whether any of it is working.
-
-The idea is to have it all in one place, local-first, without a subscription or a data policy to worry about. Not trying to make something flashy. Just something that actually helps.
-
----
-
-<div align="center">
-
-*If the tool you need doesn't exist, make it.*
-
-</div>
